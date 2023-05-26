@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri May 26 22:23:26 2023
+[*]
+[dumpfile] "/mnt/3A2CC0842CC03C9F/University/Spring 2023/Digital Design 1/Project_2/DD1_Project2/sources/Design Sources and Simulations/Simulation/simuation.vcd"
+[dumpfile_mtime] "Fri May 26 22:22:45 2023"
+[dumpfile_size] 137205
+[savefile] "/mnt/3A2CC0842CC03C9F/University/Spring 2023/Digital Design 1/Project_2/DD1_Project2/sources/Design Sources and Simulations/Simulation/simulation_gtkwave.gtkw"
+[timestart] 0
+[size] 1846 1016
+[pos] -1 -1
+*-8.986149 428 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Project_tb.
+[treeopen] Project_tb.utd.
+[sst_width] 233
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+Project_tb.clk
+@420
+Project_tb.InA[7:0]
+Project_tb.InB[7:0]
+@28
+Project_tb.btnL
+Project_tb.btnR
+Project_tb.btnStart
+Project_tb.IsDone
+Project_tb.utd.IsNeg
+@24
+Project_tb.utd.product[15:0]
+@22
+Project_tb.utd.ssd_enables[3:0]
+@23
+Project_tb.utd.ssd_segments[6:0]
+[pattern_trace] 1
+[pattern_trace] 0
