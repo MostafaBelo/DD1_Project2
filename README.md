@@ -4,6 +4,11 @@
 
 This project was implemented and tested on the Basys 3 Artix 7 board (Xilinx part number XC7A35T-1CPG236C).
 
+Authors:
+- Andrew Antoine
+- Mostafa Elfaggal
+- Kirolous Fouty
+- Youssef Elhagg
 
 ### Usage: What the project does when implemented on a Basys 3 board
 
